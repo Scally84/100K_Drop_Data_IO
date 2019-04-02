@@ -36,7 +36,6 @@ import javax.swing.JOptionPane;
  *
  * @author Stephen
  */
-
 public class DataIO extends Application
 {
     //variables
